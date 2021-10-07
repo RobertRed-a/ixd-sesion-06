@@ -3,7 +3,7 @@
 /* ver https://getbootstrap.com/docs/5.1/customize/css-variables */
 
 :root{
-	--bs-body-font-family: 'Roboto', serif;
+	--bs-body-font-family: Roboto, serif;
 	--bs-body-font-weight: 400;
 }
 
